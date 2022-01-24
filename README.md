@@ -7,10 +7,10 @@ access log
 ![](report_img/access.PNG)
 
 база
-![](img/db.PNG)
+![](report_img/db.PNG)
 
 запрос корня сайта
-![](img/request.PNG)
+![](report_img/request.PNG)
 
 [nginx](./nginx/nginx.conf)
 
