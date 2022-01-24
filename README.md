@@ -19,4 +19,3 @@ access log
 [dockerfile nginx](./nginx/dockerfile)
 
 [docker-compose](docker-compose.yml)
-mmmmmmmaanasasdasdasd
