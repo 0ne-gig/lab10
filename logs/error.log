@@ -1,0 +1,10 @@
+2022/01/24 13:28:48 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:28:59 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:29:12 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:29:25 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:29:36 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:29:46 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:29:57 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:30:45 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:30:55 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
+2022/01/24 13:31:05 [emerg] 1#1: host not found in upstream "python" in /etc/nginx/conf.d/nginx.conf:9
